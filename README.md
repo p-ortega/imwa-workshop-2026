@@ -1,4 +1,4 @@
-# imwa-workshop-2026
+# IMWA 2026 - Reliable Mine Water Management with Open-Source Software – From Coupled Flow & Reactive Transport to Uncertainty Analysis
 
 <p align="center">
   <img src="asset/imwa2026.png" alt="IMWA 2026" width="400">

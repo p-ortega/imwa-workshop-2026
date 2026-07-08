@@ -1,5 +1,9 @@
 # imwa-workshop-2026
 
+<p align="center">
+  <img src="asset/imwa2026.png" alt="IMWA 2026" width="400">
+</p>
+
 [![CI](https://github.com/p-ortega/imwa-workshop-2026/actions/workflows/ci.yml/badge.svg)](https://github.com/p-ortega/imwa-workshop-2026/actions/workflows/ci.yml)
 
 Workshop tutorials for the International Mining Water Association Conference in Korea, 2026.
